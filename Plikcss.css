@@ -1,0 +1,50 @@
+
+ p1 {
+
+  width: auto;
+  height: auto;
+
+}
+
+
+
+p {
+word-spacing: 30px;
+text-align: center;
+font-family: Impact, Charcoal, sans-serif;
+color: white;
+font-size: 35px;
+ }
+
+.center
+{
+ vertical-align: middle;
+}
+
+
+topbar {
+
+  border: 2px solid; border-radius: 10px;
+  background: #666;
+  color: white;
+  padding: 10px;
+}
+
+a {
+ color:white;
+}
+
+a:hover{
+ color: lightgray;
+}
+
+body {
+  background-image: url("https://gamingsociety.pl/wp-content/uploads/2019/04/minecraft-1.jpg");
+  background-color: #cccccc;
+}
+
+.box {
+  background: pink;
+  padding: 100px;
+  margin: 100px;
+}
